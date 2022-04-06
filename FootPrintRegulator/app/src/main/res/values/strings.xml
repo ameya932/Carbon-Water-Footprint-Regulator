@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FootPrint Regulator</string>
+    <string name="user_name">User Name</string>
+    <string name="e_mail_id">E-mail ID</string>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.footprintregulator">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FootPrintRegulator">
+        <activity
+            android:name=".Tax"
+            android:exported="false" />
+        <activity
+            android:name=".Display"
+            android:exported="false" />
+        <activity
+            android:name=".ElectricUnit"
+            android:exported="false" />
+        <activity
+            android:name=".FourBike_Left"
+            android:exported="false" />
+        <activity
+            android:name=".FourBike"
+            android:exported="false" />
+        <activity
+            android:name=".ThreeBike_Left"
+            android:exported="false" />
+        <activity
+            android:name=".ThreeBike"
+            android:exported="false" />
+        <activity
+            android:name=".TwoBike"
+            android:exported="false" />
+        <activity
+            android:name=".OneBike"
+            android:exported="false" />
+        <activity
+            android:name=".PageTwo_Two"
+            android:exported="false" />
+        <activity
+            android:name=".Four_leftCar"
+            android:exported="false" />
+        <activity
+            android:name=".FourCar"
+            android:exported="false" />
+        <activity
+            android:name=".Three_twoCar"
+            android:exported="false" />
+        <activity
+            android:name=".Three"
+            android:exported="false" />
+        <activity
+            android:name=".ThreeCar"
+            android:exported="false" />
+        <activity
+            android:name=".TwoCar"
+            android:exported="false" />
+        <activity
+            android:name=".OneCar"
+            android:exported="false" />
+        <activity
+            android:name=".SecondPage"
+            android:exported="false" />
+        <activity
+            android:name=".AbtWaterFoot"
+            android:exported="false" />
+        <activity
+            android:name=".AbtCarbonFoot"
+            android:exported="false" />
+        <activity
+            android:name=".PgTwoforOne"
+            android:exported="false" />
+        <activity
+            android:name=".PgOneforOne"
+            android:exported="false" />
+        <activity
+            android:name=".FirstPage"
+            android:exported="false" />
+        <activity
+            android:name=".AboutMe"
+            android:exported="false" />
+        <activity
+            android:name=".Homepage"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

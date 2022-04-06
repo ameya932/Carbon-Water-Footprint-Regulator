@@ -1,0 +1,10 @@
+D:\My And Studio\jre\bin
+C:\Users\ariha\AppData\Local\Android\Sdk\emulator\emulator.exe
+7
+C:\Users\ariha\AppData\Local\Android\Sdk\emulator\emulator.exe
+-netdelay
+none
+-netspeed
+full
+-avd
+Pixel_3_XL_phone_
